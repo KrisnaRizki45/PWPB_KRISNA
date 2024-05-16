@@ -1,0 +1,29 @@
+body {
+    justify-content: center;
+    padding: 60px;
+}
+
+td, th{
+    font-size: 13px;
+    text-align: center;
+}
+
+thead{
+    text-align: center;
+}
+
+.menu-edit{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.header{
+    display: flex;
+    gap: 10px;
+} 
+a{
+    text-decoration: none;
+    color: white;
+}
+
